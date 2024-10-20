@@ -1,8 +1,11 @@
-# React + Vite
+#UseFetch
+use fetch custom hook is added while simple methods we can add error parameter
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+#UsePrev
+usePrev custom hook which is used to fetch the previous item before update
 
-Currently, two official plugins are available:
+#useDebouncer
+For optimizing and reducing the loading on backend we should use this useDebouncer which can help to reduce the number of hits on DB while people search 
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+#useIsonlin
+this is basic custom hook which help to know is person online or offline
